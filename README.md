@@ -29,4 +29,5 @@ Have questions or need assistance setting up your hardware? Connect with develop
 
 👉 **[Join our Discord Server](https://discord.gg)**
 
-<img width="1914" height="990" alt="image" src="https://github.com/user-attachments/assets/a6bdac79-a96b-4211-951a-8e5c4c8dd884" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3d98799a-f321-414b-a2e2-967c2e8ba0c9" />
+
